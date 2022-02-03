@@ -4,7 +4,7 @@
 <%@taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <jsp:include page="/WEB-INF/front/common/header.jsp"/>
 
-
+123123
 
  <div class="pop-up"> 
    	<div class="pop-up-container">
@@ -17,7 +17,7 @@
 	   	</div>
    	 	<div class="pop-up-contents contents02 show">
 	   		<iframe width="640" height="360" src="https://www.youtube.com/embed/AESbVaCNJRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	   		<div class="close_line">
+	   		<div class="close_line">+
 	   			<span class="close-day-btn">오늘 하루 보지않기</span>
 	   			<span class="close-btn">닫기</span>
 	   		</div>
